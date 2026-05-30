@@ -6,7 +6,7 @@
       "destination": "/api/index.ts"
     },
     {
-      "source": "/(?<id>[a-zA-Z0-9_-]{6})",
+      "source": "/([a-zA-Z0-9_-]{6})",
       "destination": "/api/index.ts"
     }
   ]
